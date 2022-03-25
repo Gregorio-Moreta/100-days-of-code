@@ -28,3 +28,18 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+### Day 6: March 24, Thursday
+
+**Today's progress**: #100DaysOfCode
+
+Day 6/100
+
+Moved a loginButton component to the navbar component using JS and React.
+
+Had to rework the default button to use a styled button custom button component built by my teammate.
+
+Might have a merge conflict to sort out.
+
+**Thoughts**: This is easing me into the frontend. I made a new git branch to work out of.
